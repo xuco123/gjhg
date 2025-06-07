@@ -1,0 +1,96 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url(starter-code/assets/home/background-home-desktop.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.hello {
+    color: white;
+    font-size: 25px;
+    font-weight: 100;
+
+}
+
+.hello1 {
+    margin-top: 10px;
+    color: white;
+    font-size: 170px;
+    font-weight: 100;
+
+}
+
+.p1 {
+    margin-top: 20px;
+    color: white;
+    width: 300px
+}
+
+.div1 {
+
+    width: 320px;
+}
+
+.div3 {
+    background-color: gray;
+    height: 1px;
+    width: 750px;
+    z-index: 5;
+    margin-right: -100px;
+
+
+}
+
+.div4 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px 40px;
+
+}
+
+.p2 {
+    color: white;
+}
+
+.nav {
+    display: flex;
+    backdrop-filter: blur(30px);
+    width: 50%;
+    justify-content: space-between;
+    align-items: center;
+    height: 100px;
+}
+
+.div5 {
+    margin-top: 20px;
+    background-color: white;
+
+
+    text-align: center;
+
+
+}
+
+.div2 {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 100px;
+    padding-right: 200px;
+    padding-top: 250px;
+
+
+}
+
+.htl {
+    background-color: white;
+    padding: 100px 50px;
+    border-radius: 100%;
+
+}
