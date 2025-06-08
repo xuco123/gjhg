@@ -1,0 +1,88 @@
+.div3 {
+    background-color: gray;
+    height: 1px;
+    width: 750px;
+    z-index: 5;
+    margin-right: -100px;
+
+
+}
+
+.div4 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px 40px;
+
+}
+
+.p2 {
+    color: white;
+}
+
+.nav {
+    display: flex;
+    backdrop-filter: blur(30px);
+    width: 50%;
+    justify-content: space-between;
+    align-items: center;
+    height: 100px;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url(starter-code/assets/crew/background-crew-desktop.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+
+.div5 {
+    color: white;
+    display: flex;
+}
+
+.span2 {
+    color: gray;
+}
+
+.pin {
+    font-size: 30px;
+    font-weight: 100;
+}
+
+.pin1 {
+    font-size: 80px;
+    font-weight: 100;
+    margin-top: 10px;
+}
+
+.pin2 {
+    width: 390px;
+    margin-top: 30px;
+}
+
+.pin3 {
+    margin-top: 350px;
+    margin-left: 150px;
+
+}
+
+.pin4 {
+    margin-left: 150px;
+    margin-top: 100px;
+
+
+}
+
+.p5 {
+    letter-spacing: 1px;
+    font-size: 20px;
+    font-weight: 900;
+    text-transform: uppercase;
+}
